@@ -37,7 +37,41 @@ The app does have some level of secure log in but may not be suitable for writer
 
 - Tech stack 	
 
-MERN.
+MERN. (Mongo, ExpressJS, React, NodeJS)
+
+
+***Front End***
+- JavaScript
+- React + React Library
+- HTML/CSS
+- Packages: npm package manager
+- deploy: netlify
+
+***Back End***
+- ExpressJS
+- NodeJS
+- hosting: render
+
+***Database***
+- MongoDB
+- (NodeJS)
+- Mongoose 
+- hosting: MongoAtlas
+
+***Testing***
+- Jest
+
+***DevOps***
+- Github
+- VSCode
+
+***Project Management***
+- Trello
+- (Kanban)
+
+***Design Tools***
+- Balsamiq (wireframes)
+- draw.io (diagramming)
 
 
 ## R2 	Dataflow Diagram 	
