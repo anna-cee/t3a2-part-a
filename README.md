@@ -195,17 +195,21 @@ Manu's needs:
 
 Paige's needs:
 
-- I want a creative writing app that I can also use a journal - is that a thing? Or, a journal I can use as a creative writing app.
+- I want a creative writing app that I can also use a journal - is that a thing? Or, a journal that I can use as a creative writing app.
 
-- I want to be able to make an entry and save it under a date, so I can keep it as a journal.
+- I want to be able to make an entry and save it under a date, so I can keep it as a journal entry.
 
 - I want to be able to find entries according to date again.
 
 - I want to be able to make an entry that isn't part of the journal too. 
 
+- I want to be able to keep my journal entries private, just like saving it on my harddrive. 
+
+- I want to be able to access the app on more devices than my laptop so I can do journal writing or creative writing in the same online place, but be in more physical places without having to carry my laptop around.
+
 - I want to have help getting going with creative writing, so a prompt please!
 
-- Because I'm new to creative writing, diverse prompts would be good to try out, but nothign too heavy, I still have my journal to keep.
+- Because I'm new to creative writing, diverse prompts would be good to try out, but nothing too heavy, I still have my journal to keep.
 
 
 
