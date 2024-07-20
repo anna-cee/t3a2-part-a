@@ -1,20 +1,35 @@
 
 
 ## R1 	Description of your website, including:
-- Purpose
+
+### Purpose
+
+#### Outlining the problem
+Problem:
+Writers of many kinds use pen and paper notebooks, which are highly portable, to jot ideas, make entries and do short activities in any writing environment they choose, but they then have the problem of storing or retrieving those ideas IF they choose to re-use them or develop them at another time. 
+
+Solution: Use a creative writing app.
+
+Problem: There are a bunch of apps that don't provide this. 
 
 
-The purpose of this react web application is to provide one place where a writer can complete creative writing exercises and store their own notes.
+#### The creative writing app landscape
 
-Creative writers tend to complete short exercises out and about, chanigng location or choosing a favourtite cafe, writing in notebook after notebook. This can make it hard to find and reuse ideas, character profiles, prose snippets that might be reused in a larger structures piece.
+There are a lot of creative writing apps around, each falling into roughly three groups. Firstly, there is general writing software that provides word and document processing and is often searchable e.g. simply Notes on iOS, or those also embedded within goal/project oriented features e.g. Notion.
+Then there are apps that are specifically for creative writing but provide highly scaffolded steps, and even courses, to support a writer towards and through a larger project like a manuscript/screenplay e.g. Scrivener, Werdsmith, Writerly etc. Finally, there are short prompting apps e.g. brainsparker, wordpalette, dailyPrompt, and jumpwrite. 
 
-This web application gives the writer a portable place to complete writing tasks, that can then be stored and found again in one place.
-You have a flexibility of a notebook, with the storability of an app.
-The writer can write a jot an idea of their own or write a resposne to a prompt as an exercise.
-It can be used just ofr exercise or for ideas development
+Each prompting app has a different solution for providing the prompt content. Brainsparker has very general brainstorming flashcards with no text editor for input and the card content is only sometimes applicable to creative writing. Word palette allows a user to define their preferred text and content types then generate a random word salad extracted from that textual tone, then input their own response. DailyPrompt is interactive and allows users to make a social profile and write their own prompt activities for all to use, according to category. 
+
+Jumpwrite has the most similar solution to the scope of this app, with a random word generator prompt, a random image generator prompt from APIs, however it has no backend for users to save their input.
+
+### 
+
+Solution: This app. This is a creative writing app that is simple, direct, distraction-free, has a prompt option, and allows the writer to save and search their entries. The aim is an app that has the portability and simplicity of a notebook and pen in your jacket pocket, but the storage capacity of your home bookshelf, searchability of your laptop and convenience and stimulation of an in-built activity prompter. 
 
 
-- Functionality / features
+Creative writers tend to complete short exercises out and about, changing location or choosing a favourtite cafe, writing in notebook after notebook. This can make it hard to find and reuse ideas, character profiles, prose snippets that might be reused in a larger structures piece.
+
+### Functionality / features
 
 The user will be able to
 log in
@@ -27,7 +42,7 @@ to write a scene
 to save each post in their login
 
 
-- Target audience
+### Target audience
 
 the target audience is for working creative writers who use e-devices for writing exercise or storing ideas. Additionally the target audience is creative writers who are not professional writers but enjoy writing. The app can be used by creative writers of any age. 
 
@@ -35,7 +50,7 @@ The app does have some level of secure log in but may not be suitable for writer
 
 
 
-- Tech stack 	
+### Tech stack 	
 
 MERN. (Mongo, ExpressJS, React, NodeJS)
 
@@ -45,18 +60,24 @@ MERN. (Mongo, ExpressJS, React, NodeJS)
 - React + React Library
 - HTML/CSS
 - Packages: npm package manager
-- deploy: netlify
+
 
 ***Back End***
 - ExpressJS
 - NodeJS
 - hosting: render
 
+
 ***Database***
 - MongoDB
 - (NodeJS)
 - Mongoose 
-- hosting: MongoAtlas
+
+
+***Hosting & Deployment***
+- netlify
+- render
+- MongoAtlas
 
 ***Testing***
 - Jest
@@ -85,9 +106,10 @@ MERN. (Mongo, ExpressJS, React, NodeJS)
 
 ## R4 	User Stories 	
 
-Example user: 
 
-### Scritty the hobby writer. 
+
+### 1. Penny Jotterman
+#### the hobby creative writer. 
 Scritty writes for enjoyment sometimes for short or long periods, sometimes at home or when travelling or out and about.
 
 I want an writing app that I can take with me anywhere I am, so all the flexibility and openness of a handwritten notebook.
@@ -116,7 +138,8 @@ I want to be able to tag entries with keywords so that I can find them again
 
 
 
-### Rosie the professional writer:
+### 2. Manu Scripsson 
+#### the professional (creative) writer
 I want a writing app that I can use to jot in my ideas and make entries without being a part of a course
 i want a writing app that I can use on the go for my own writing
 
@@ -126,7 +149,8 @@ Although I want to be free of distraciton, I want to be able to access previous 
 
 I'd like to be able to have entries specific to character development
 
-
+### 3. Paige Turner 
+#### journal-keeper who wants to write creatively
 
 
 
