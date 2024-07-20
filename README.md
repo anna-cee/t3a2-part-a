@@ -31,22 +31,43 @@ Creative writers tend to complete short exercises out and about, changing locati
 
 ### Functionality / features
 
-The user will be able to
-log in
-to write a note
-to write a response to a prompt
-to store a prompt of their own??
-to store a photo of their own? - like an inspiration board??
-to write a character
-to write a scene
-to save each post in their login
+
+SignUp & LogIn
+- A user will be able to sign up to the app using an email address and password.
+- A user will be able to log in  and use this login to save entries and search for saved entries.
+
+Menu
+- A user will be able to choose to make a straight entry, or choose from a prompt or range or prompts.
+
+Text Editor
+- A user will be able to write an entry using a text editor.
+
+Prompt Generator
+- A user will be able to generate a random prompt and respond to it.
+
+Save Button- Saving Entries 
+- A user will be able to save an entry.
+
+Title Bar, Tags Bar (entry data)
+- A user will be able to add identifying data to their entry to make it searchable e.g. title and tags.
+
+Search Bar (Retrieving Entries)
+- A user can find past entries using a search bar and enter identifying data e.g. titles and tags. The user can add the date as a title.
+
+
+Collections
+- A user will be able to create groups of previous entries organised according to a tag or title they've chosen.
+
 
 
 ### Target audience
 
-the target audience is for working creative writers who use e-devices for writing exercise or storing ideas. Additionally the target audience is creative writers who are not professional writers but enjoy writing. The app can be used by creative writers of any age. 
+The target audience is primarily existing writers who are already creative writers professionally or as a hobby, or who write in some other form and want a creative writing addition. 
+Still, the app can easily be used by anyone who want to write to a prompt or make saveable entries, but it doesn't provide a lot of training or support for those looking for a course.
+The app could be used by writers of any age, although depending on the prompt, maybe 14 or 15+, with no upper age limit. 
+The app can be used by writers of diverse backgrounds and who write in any form, although prompts are in English in this iteration.
 
-The app does have some level of secure log in but may not be suitable for writers writing a family history to store sensitive data.
+
 
 
 
