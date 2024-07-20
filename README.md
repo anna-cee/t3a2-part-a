@@ -139,24 +139,74 @@ Penny's needs:
 
 
 
-
-
-
-
 ### User Profile # 2
-### Manu Scripsson 
-#### the professional (creative) writer
-I want a writing app that I can use to jot in my ideas and make entries without being a part of a course
-i want a writing app that I can use on the go for my own writing
+### Manu Scripsson: the professional (creative) writer
 
-I want to be able to write without the distraction of social media or a course framework, but I still want the option of writng to a prompt.
 
-Although I want to be free of distraciton, I want to be able to access previous entries according to keywords I've saved them under, which I can't do in a handwritten notebook.
+- Manu is a creative writing professional.
 
-I'd like to be able to have entries specific to character development
+- He works across the cycle of a work, from ideas development to drafting and editing.
 
-### 3. Paige Turner 
-#### journal-keeper who wants to write creatively
+- What he writes professionally is mostly fictional prose but he does some script editing work and feature writing.
+
+- Manu keeps a regular flow of ideas in his artistic practice, which may or may not become finished works or be integrated into other ideas.
+
+- Part of his artistic practice is to do short writing activities that might be ideas that appear to his mind that he wants to explore or responses to prompts or his environment.
+
+- Manu prefers to do these activities outside of the home or the workplace so that he's separated from family and work life and any routine thinking that comes with it.
+
+- Manu mostly uses his phone or a notebook(paper) for this kind of writing, so he can fit in to diverse environments.
+
+
+Manu's needs:
+
+- I want a writing app that doesn't assume I'm not a writer. Please no courses or promises of how great my first novel will be.
+
+- I want a writing app that isn't like my work. I already use forms and programs at work that chart scenes and chapters and plotlines etx. 
+
+- I want an app that lets me just write in it like a notebook. 
+
+- I want my entries to be savable so I can keep them if I want.
+
+- I want to be able to find ideas again and develop them.
+
+- I want to have the option of some in-built prompt or stimulator in case I dont' have anything in mind. 
+
+- I want to be able to build out characters in a profile. So I'd be able to profile their basic information, but then also be free to write an entry related to them, so a scene or a plot point etc. I don't want it to be too ridid a form, I want some free writing included.
+
+- I want the app to be private. I'm not saying my next idea is going to be the greatest film of all time therefore it needs hiding - but, in case it is, I'd like it to be private and not on a public wall.
+
+- I want an app that is not collaborative or social. I collaborate and connect with other writers and editors a lot in my real life work. For me, it's just a distraction for this type of app.
+
+- I'd like to be able to share the text. Even though I'm not looking for a social platform, it would be handy to be able to share the text from entries with others in some way, whether it's as a text message, email, airdrop or on a social media platform, so if I want to use it for work or share an idea or something, I can do that easily.
+
+
+### User Profile # 3
+### Paige Turner: journal-keeper who wants to write creatively
+
+- Paige has a regular journal writing practice but doesn't write much creatively.
+
+- Paige wants to do some creative writing but isn't sure about taking on a whole course or a large project.
+
+- Paige has a regular day job and writes in snatches of time she finds in her day.
+
+- Paige often writes at home on her laptop, so her journal is all in the one place but sometimes writes on the go.
+
+
+Paige's needs:
+
+- I want a creative writing app that I can also use a journal - is that a thing? Or, a journal I can use as a creative writing app.
+
+- I want to be able to make an entry and save it under a date, so I can keep it as a journal.
+
+- I want to be able to find entries according to date again.
+
+- I want to be able to make an entry that isn't part of the journal too. 
+
+- I want to have help getting going with creative writing, so a prompt please!
+
+- Because I'm new to creative writing, diverse prompts would be good to try out, but nothign too heavy, I still have my journal to keep.
+
 
 
 
