@@ -108,37 +108,43 @@ MERN. (Mongo, ExpressJS, React, NodeJS)
 
 
 
-### 1. Penny Jotterman
-#### the hobby creative writer. 
-Scritty writes for enjoyment sometimes for short or long periods, sometimes at home or when travelling or out and about.
+### User Profile # 1
+### Penny Jotterman: the hobby creative writer. 
 
-I want an writing app that I can take with me anywhere I am, so all the flexibility and openness of a handwritten notebook.
+- Penny writes creatively for enjoyment and writes comfortably and regularly. 
+- She's not looking for her inner creative to be unlocked by a course, but she does use activities and tools as she prefers as part of her own practice. 
+- What she writes is diverse: sometimes she works on structured or competition pieces, sometimes she writes brief ideas, scenes, character sketches or responses to activities. 
+- Where she writes also varies, sometimes at home, sometimes out at a cafe or a park or when travelling. The environment she writes in could be chosen to be conducive to writing or the place itself may provide material to respond to.
+- She uses either a pen & paper notebook, or a tablet or a laptop to write depending on where she is and what she's writing.
 
-But I also want to have the option to save what I wrote and access it later by using keywords to find it.
+Penny's needs:
 
-I want to be able to write whatever I want or write to a prompt, which I can't get from a notebook, but I don't want a course I have to work through, just a random prompt. I'm not looking for an app to totally scaffold my entire writing practice, I just want a tool that means I can write with the flexiblity of a notebook but with the supprot og a prompt and a 
+- I want to be able to use an app like a notebook, so it's portable and I can just open it and start writing.
 
+- I want an app that lets me write without distractions - no socials, no massive selection of ideas that could be overwhelming, no ads.
 
-I don't want my writing app to have goals and tallies of what I've done. I have meditation apps and exercise apps and diets apps and it all adds up for expectation. I don't want writing to become a burden I have to fulfill. I just want to write. Please dont' tell me how many consecutive days I wrote or how many words I wrote. I always have the option of using it to develop a daily practice, but I don't want it to be part of the app that it guilts me about whether I write one day or not. Writing is a hopbhy for me, I write in different ways in different places. I don't want to be dependent on one 
+- I want an app that doesn't guilt me about my writing - I don't want any tracking or recording of how regularly I write. I already have a writing practice I don't want an app that puts an expectation on me.
 
+- I want to be able to save what I write if I want. Sometimes I might just write junk and don't keep it, other times a great idea or character might come that I want to keep for later.
 
+- I want to be able to find the entries I save again easily.
 
+- I want to have the option to find and open a past entry and then write more on it and keep it so I can flesh out/ develop ideas in the app.
 
-I want to be able to write in a isolated app that has no distractions, social media, coursework or goals, just dip in and write. 
+- I want the option to respond to a prompt, but I also want to be free to not use it.
 
-I want to be able to open it and write something wihtout logging in.
-
-I also want to be able to open it and log in and wrtie something that i keep and can find again.
-
-
-I want to be able to jump in to saved entries I've written before and develop them
-
-I want to be able to tag entries with keywords so that I can find them again
-
-
+- I'd like to be able to choose different types of prompts within limited, not overwhelming, choice, like writing a scene vs responding to a prompt.
 
 
-### 2. Manu Scripsson 
+
+
+
+
+
+
+
+### User Profile # 2
+### Manu Scripsson 
 #### the professional (creative) writer
 I want a writing app that I can use to jot in my ideas and make entries without being a part of a course
 i want a writing app that I can use on the go for my own writing
