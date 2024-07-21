@@ -12,9 +12,6 @@
 ## R1 	Description of your website, including:
 
 
-### Scope
-
-
 
 ### Purpose
 
@@ -358,3 +355,62 @@ Film scene image displayed as prompt for writing a story scene. Option to get a 
 
 
 ## R6 	Screenshots of your Trello board throughout the duration of the project 	
+
+
+### Agile Methodoloy
+
+This is a solo project. I used a Trello Board with a very simple kanban structure and allocated tasks accroding to the 6 sections of the project description.
+
+
+
+### Trello Phase 1
+set up project
+create tasks in groups
+
+
+![Trello Shot](./docs/Trello_1.png "Trello Shot")
+![Trello Shot](./docs/Trello_1.1.png "Trello Shot")
+![Trello Shot](./docs/Trello_1.2.png "Trello Shot")
+![Trello Shot](./docs/Trello_1.3.png "Trello Shot")
+![Trello Shot](./docs/Trello_1.4.png "Trello Shot")
+![Trello Shot](./docs/Trello_1.5.png "Trello Shot")
+![Trello Shot](./docs/Trello_1.6.png "Trello Shot")
+![Trello Shot](./docs/Trello_1.7.png "Trello Shot")
+
+### Trello Phase 2
+
+research existing apps and packages 
+user stories
+
+![Trello Shot](./docs/Trello_2.1.png "Trello Shot")
+![Trello Shot](./docs/Trello_2.2.png "Trello Shot")
+![Trello Shot](./docs/Trello_2.3.png "Trello Shot")
+![Trello Shot](./docs/Trello_2.4.png "Trello Shot")
+
+
+### Trello Phase 3
+
+Develop user stories + wireframes
+App arch diagram
+data flow diagram
+
+![Trello Shot](./docs/Trello_3.png "Trello Shot")
+![Trello Shot](./docs/Trello_3.1.png "Trello Shot")
+![Trello Shot](./docs/Trello_3.2.png "Trello Shot")
+![Trello Shot](./docs/Trello_3.3.png "Trello Shot")
+![Trello Shot](./docs/Trello_3.4.png "Trello Shot")
+![Trello Shot](./docs/Trello_3.5.png "Trello Shot")
+
+
+### Trello Phase 4
+
+Completion, finalise documetation
+
+![Trello Shot](./docs/Trello_4.1.png "Trello Shot")
+![Trello Shot](./docs/Trello_4.2.png "Trello Shot")
+![Trello Shot](./docs/Trello_4.3.png "Trello Shot")
+![Trello Shot](./docs/Trello_4.4.png "Trello Shot")
+![Trello Shot](./docs/Trello_4.5.png "Trello Shot")
+
+
+
