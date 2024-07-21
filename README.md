@@ -308,7 +308,7 @@ The user entry page is the same as the "just write" page with a save option and 
 
 Prompt button persists so the writer can get a prompt if they change their mind after just writing, or get a new prompt if the one they get isnt' working for them.
 
-![User Enntry Page Wireframes](./docs/User_Just_Write.png " Wireframes")
+![User Entry Page Wireframes](./docs/User_Just_Write.png " Wireframes")
 
 
 ### Search Result or Collection List Page
