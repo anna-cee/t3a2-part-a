@@ -68,7 +68,7 @@ Collections
 ### Target audience
 
 The target audience is primarily existing writers who are already creative writers professionally or as a hobby, or who write in some other form and want a creative writing addition. 
-Still, the app can easily be used by anyone who want to write to a prompt or make saveable entries, but it doesn't provide a lot of training or support for those looking for a course.
+Still, the app can easily be used by anyone who wants to write to a prompt or make saveable entries, but it doesn't provide a lot of training or support for those looking for a course.
 The app could be used by writers of any age, although depending on the prompt, maybe 14 or 15+, with no upper age limit. 
 The app can be used by writers of diverse backgrounds and who write in any form, although prompts are in English in this iteration.
 
@@ -245,46 +245,74 @@ Paige's needs:
 
 ### Landing Page
 
+The starting page takes the user straight to writing with or without a log in. Nav bar with Signup link.
+
 ![Landing Page Wireframes](./docs/Landing.png "Landing Page Wireframes")
 
 ### "Just Write Page"
+With no log in, the user writes stright away.
+Text editor displays and the option to call a prompt or update it is there. 
+A save button for change of mind to sign in is added.
+
 !["Just Write" Page Wireframes](./docs/Just_Write_Page.png "Just Write Page Wireframes")
 
 ### Sign In Page
 
+User login with "forgot password" option
 ![Signin Page Wireframes](./docs/Login.png "Sign In Page Wireframes")
 
 
 ### User Home Page
 
+3 cards lay out 3 options on the user homepage. Firstly, buttons to the text editor page to make an entry with or without a prompt. Secondly , writer can add own prompt which are displayed in the card below the tet input. Past writing can be searched with the search bar. Assigned collections are displayed and can be opened. Both last two options lead to follow search results/collections list page.
+
 ![User Home Page Wireframes](./docs/User_Home.png "User Home Page Wireframes")
 
 ### User Entry Page
+
+The user entry page is the same as the "just write" page with a save option and text input bars to include identifying labels with the saved entry.
+
+Prompt button persists so the writer can get a prompt if they change their mind after just writing, or get a new prompt if the one they get isnt' working for them.
+
 ![User Enntry Page Wireframes](./docs/User_Just_Write.png " Wireframes")
 
 
 ### Search Result or Collection List Page
 
+Card with search term title and list of entries with link for serach or colletion results. Each result includes the first line ( in case there is no title) as well as title and date data. Clicking a linke leads to view entry page
 
 ![Search Results Wireframes](./docs/Search_Collections_List_Query_Results.png "Search Results Wireframes")
 
 
 ### View Entry Page
 
+the collection title or search term is used as a title, followed by the entry title, then full entry text in paragraph form.
 
+Edit Button if user wishes to edit leads to Edit entry page.
 ![View Entry Page Wireframes](./docs/View_Entry.png "View Entry Page Wireframes")
 
 
 ### Edit Entry Page
+
+Text editor shows with selecgted entry text. Save Changes Button.
 ![Edit Entry Page Wireframes](./docs/Edit_Entry.png "Edit Entry Page Wireframes")
 
+### User Home - Extended
+
+If it's possible to go beyond the MVP for this project, two more prompt buttons added to the User Home Page: Scene and Character. These lead to the following Character and Scene Entry pages.
+
+![User Home Page Extended Wireframes](./docs/User_Home_Extended.png "User Page Extended Version Wireframes")
 
 ### Character Entry Page
 
+Text input field for character profile information.
+Free text editor for entry related to character. Saves under character profile.
 ![Character Entry Page Wireframes](./docs/Character_Entry.png "Character Entry Page Wireframes")
 
 
 ### Scene Entry Page
+
+Film scene image displayed as prompt for writing a story scene. Option to get a new prompt. Option to save entry.
 
 ![Scene Entry Page Wireframes](./docs/Scene_Image_Entry.png "Scene Entry Page Wireframes")
 
