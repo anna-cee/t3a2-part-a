@@ -127,7 +127,7 @@ MERN. (Mongo, ExpressJS, React, NodeJS)
 
 ## R3 	Application Architecture Diagram 	
 
-
+![App Architecture Diagram](./docs/Application_Architecture_Diagram.png "App Architecture Diagram")
 
 
 ## R4 	User Stories 	
