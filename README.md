@@ -1,4 +1,13 @@
 
+# Write-At-Hand:  Creative Writing Prompter App
+
+### Repository
+
+[Github Repository ](https://https://github.com/anna-cee/t3a2-part-a)
+
+### Trello
+
+[Trello Board ](https://https://trello.com/b/FUjSHdsI/react-app-part-a-writing-prompter)
 
 ## R1 	Description of your website, including:
 
@@ -46,14 +55,18 @@ Menu
 
 Text Editor
 - A user will be able to write an entry using a text editor.
+- It will use jodit-react as a text editor
+- a user can make an entry without using a prompt
 
 Prompt Generator
 - A user will be able to generate a random prompt and respond to it.
+- it will use random-words npm package to generate phrases
+- user can refresh the prompt if they're not happy with the prompt they got.
 
 Save Button- Saving Entries 
 - A user will be able to save an entry.
 
-Title Bar, Tags Bar (entry data)
+Identifying data for entries: Title Bar, Tags Bar 
 - A user will be able to add identifying data to their entry to make it searchable e.g. title and tags.
 
 Search Bar (Retrieving Entries)
@@ -62,6 +75,17 @@ Search Bar (Retrieving Entries)
 
 Collections
 - A user will be able to create groups of previous entries organised according to a tag or title they've chosen.
+
+View Entry
+- A user will be able to view a past entry by finding it in the search bar or a colletion
+
+
+Edit Entry
+- A user will be able to make text changes and update and save that entry
+
+Promp Bank
+- A user will be able to create and save their own prompts
+- A user will be able to use these as random prompts
 
 
 
@@ -163,6 +187,11 @@ Penny's needs:
 
 - I'd like to be able to choose different types of prompts within limited, not overwhelming, choice, like writing a scene vs responding to a prompt.
 
+### Revision
+
+- I'd like to be able to save my own prompts so I can use them or the prompt generator in the app. 
+- I'd like to be able to refresh the prompt generator if I don't like the prompt I get or I try it and the writing just isn't flowing.
+
 
 
 
@@ -208,6 +237,9 @@ Manu's needs:
 
 - I'd like to be able to share the text. Even though I'm not looking for a social platform, it would be handy to be able to share the text from entries with others in some way, whether it's as a text message, email, airdrop or on a social media platform, so if I want to use it for work or share an idea or something, I can do that easily.
 
+Revision
+- Although I don't want it to be too much like my work writing programs, I would like to be able to write characters and scenes and save them.
+
 
 ### User Profile # 3
 ### Paige Turner: journal-keeper who wants to write creatively
@@ -238,6 +270,9 @@ Paige's needs:
 - I want to have help getting going with creative writing, so a prompt please!
 
 - Because I'm new to creative writing, diverse prompts would be good to try out, but nothing too heavy, I still have my journal to keep.
+
+Revision
+- It would be cool if the writing page had a timer in it so that I could do a timed writing. Then I wouldn't get too bogged down or frustrated. I can use my own timer, but it would be handy having it on the page.
 
 
 
