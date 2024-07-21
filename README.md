@@ -2,11 +2,16 @@
 
 ## R1 	Description of your website, including:
 
+
+### Scope
+
+
+
 ### Purpose
 
 #### Outlining the problem
 Problem:
-Writers of many kinds use pen and paper notebooks, which are highly portable, to jot ideas, make entries and do short activities in any writing environment they choose, but they then have the problem of storing or retrieving those ideas IF they choose to re-use them or develop them at another time. 
+Writers of many kinds use pen and paper notebooks, which are highly portable, to jot ideas, make entries and do short activities in any writing environment they choose, but they then have the problem of storing or retrieving those ideas IF they choose to re-use them or develop them at another time. Furthermore, writers often use prompt ideas to mix up their practice but it can be cumbersome to cart these around with their notebooks.
 
 Solution: Use a creative writing app.
 
@@ -237,6 +242,52 @@ Paige's needs:
 
 
 ## R5 	Wireframes for multiple standard screen sizes, created using industry standard software 	
+
+### Landing Page
+
+![Landing Page Wireframes](./docs/Landing.png "Landing Page Wireframes")
+
+### "Just Write Page"
+!["Just Write" Page Wireframes](./docs/Just_Write_Page.png "Just Write Page Wireframes")
+
+### Sign In Page
+
+![Signin Page Wireframes](./docs/Login.png "Sign In Page Wireframes")
+
+
+### User Home Page
+
+![User Home Page Wireframes](./docs/User_Home.png "User Home Page Wireframes")
+
+### User Entry Page
+![User Enntry Page Wireframes](./docs/User_Just_Write.png " Wireframes")
+
+
+### Search Result or Collection List Page
+
+
+![Search Results Wireframes](./docs/Search_Collections_List_Query_Results.png "Search Results Wireframes")
+
+
+### View Entry Page
+
+
+![View Entry Page Wireframes](./docs/View_Entry.png "View Entry Page Wireframes")
+
+
+### Edit Entry Page
+![Edit Entry Page Wireframes](./docs/Edit_Entry.png "Edit Entry Page Wireframes")
+
+
+### Character Entry Page
+
+![Character Entry Page Wireframes](./docs/Character_Entry.png "Character Entry Page Wireframes")
+
+
+### Scene Entry Page
+
+![Scene Entry Page Wireframes](./docs/Scene_Image_Entry.png "Scene Entry Page Wireframes")
+
 
 
 
