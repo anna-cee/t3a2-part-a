@@ -123,6 +123,8 @@ MERN. (Mongo, ExpressJS, React, NodeJS)
 
 ## R2 	Dataflow Diagram 	
 
+![Data Flow Diagram](./docs/Data_Flow_Diagram.png "Data Flow Diagram")
+
 
 
 ## R3 	Application Architecture Diagram 	
